@@ -1,5 +1,5 @@
-from pet import Pet
-import ipdb
+from lib.pet import Pet
+# import ipdb
 
 
 class Dog(Pet): 
@@ -19,4 +19,4 @@ class Dog(Pet):
             color: {self.color}
             ''')
         
-ipdb.set_trace()
+# ipdb.set_trace()

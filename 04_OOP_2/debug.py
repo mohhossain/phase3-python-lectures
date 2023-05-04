@@ -7,6 +7,8 @@ from lib.pet import Pet
 from lib.cat import Cat
 from lib.dog import Dog
 
+# from lib.dog import Dog
+
 # import Cat from lib.cat
 
 # Instances of the pet classes
